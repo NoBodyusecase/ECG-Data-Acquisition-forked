@@ -1,6 +1,27 @@
 # ECG Data Acquisition & Heart Rate Analysis System 🩺  
+![Image](https://github.com/user-attachments/assets/05f1829b-8cf2-47a8-ac7d-6d8b8f4031fa)
+
+
+<img src="https://github.com/user-attachments/assets/62c5172f-ba10-47cf-b38d-8e1d3c5e6885" alt="ECG System Demo" width="400" />
+<img src="https://github.com/user-attachments/assets/acca3a50-85ca-4d25-9b67-1e65795c613a" alt="ECG System Demo" width="400" />
+
+
 **Arduino-based system to simulate ECG waveforms, calculate BPM, and detect rhythm irregularities.**  
 *(Developed for "Introduction to Medical Equipment - Task 01")*  
+
+---
+
+## 📋 Table of Contents  
+- [📝 Overview](#-overview)  
+- [🌟 Features](#-features)  
+- [🛠️ Components](#-components)  
+- [🔧 Setup](#-setup)  
+- [🔌 Circuit Diagram](#-circuit-diagram)  
+- [🎮 Usage](#-usage)  
+- [📊 Task Alignment](#-task-alignment)  
+- [📹 Demo Video](#-demo-video)  
+- [👥 Team Roles](#-team-roles)  
+- [📜 License](#-license)  
 
 ---
 
@@ -34,10 +55,16 @@ This project simulates ECG signal acquisition using an Arduino, OLED display, an
 
 2. **Upload Code**:  
    - Install `Adafruit_SSD1306` and `Adafruit_GFX` libraries.  
-   - Upload `sketch_feb24b.ino` to Arduino.  
+   - Upload `code.ino` to Arduino.  
 
 3. **Simulate in Tinkercad**:  
-   - Replace the sensor with a potentiometer for testing.  
+   - Replace the sensor with a potentiometer for testing.
+
+---  
+
+## Circuit Diagram
+![Image](https://github.com/user-attachments/assets/268693d1-24fe-4e1c-b238-9b10835c9446)
+*(we put a buzzer & and we didn't get a push buttons. Try to do it with push buttons)*  
 
 ---
 
@@ -54,6 +81,22 @@ This project fulfills **Task 01** requirements by:
 ✅ Calculating heart rate (BPM) and error  
 ✅ Visualizing rhythm regularity (normal vs. disease)  
 ✅ Providing reasoning via error analysis  
+
+---
+
+## 📹 Demo Video  
+https://github.com/user-attachments/assets/da956b32-4d77-40ca-b3da-81c5bcfce951
+
+---
+
+## 👥 Team Roles  
+| Member         | Role                                       |  
+|----------------|--------------------------------------------|  
+| **Ibrahim Abdelkader** (Leader) | Software Development, System Integration |  
+| **Mohamed Ehab** | Hardware Setup & Circuit Design          |  
+| **Nada Mostafa**         | Documentation & ECG Signal Analysis      |  
+| **Menna Atef**        | Testing & Sensor Validation               |  
+| **Jana Nour**         | Video Demo & Presentation                 |  
 
 ---
 
