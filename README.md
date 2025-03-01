@@ -92,10 +92,10 @@ https://github.com/user-attachments/assets/da956b32-4d77-40ca-b3da-81c5bcfce951
 ## 👥 Team Roles  
 | Member         | Role                                       |  
 |----------------|--------------------------------------------|  
-| **Ibrahim Abdelkader** (Leader) | Software Development, System Integration |  
-| **Mohamed Ehab** | Hardware Setup & Circuit Design          |  
+| **Ibrahim Abdelkader** (Leader) | Hardware Setup , System Integration |  
+| **Mohamed Ehab** | Software Development & Testing           |  
 | **Nada Mostafa**         | Documentation & ECG Signal Analysis      |  
-| **Menna Atef**        | Testing & Sensor Validation               |  
+| **Menna Atef**        | Circuit Design & Sensor Validation               |  
 | **Jana Nour**         | Video Demo & Presentation                 |  
 
 ---
